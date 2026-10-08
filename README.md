@@ -1,2 +1,2 @@
-# anelie-esquisita
-feito por Snnelyze e Víctor
+# annelyze-esquisita
+feito por Annelyze e Víctor
